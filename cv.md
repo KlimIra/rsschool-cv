@@ -11,3 +11,20 @@ I'm 27 years old and I'm interested in photography.
 Now I’m trying to gain new and strengthen acquired skills for a new job.
 Me: easy to learn, open to new knowledge and results-oriented.
 ****
+## Skills
+1. Microsoft Office
+2. Lightroom
+3. Adobe photoshop
+4. Figma
+5. Udemy
+6. Stepik
+
+****
+## Code example 
+**This code does not execute properly. Try to figure out why**
+```
+function multiply(a, b){
+  return a * b
+}
+```
+****
